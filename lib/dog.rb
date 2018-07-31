@@ -5,7 +5,6 @@ class Dog
   def name
     @name
   end
-  
   def breed=(temp_breed)
     @breed=temp_breed
   end
