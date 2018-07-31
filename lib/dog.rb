@@ -3,6 +3,6 @@ class Dog
     @name=temp_name
   end
   def name
-    @name=name
+    @name
   end
 end
